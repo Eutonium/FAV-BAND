@@ -2,13 +2,13 @@ body{
     background-color: darkgrey;
 }
 h1 {
-    color: black;
+    color:black;
     text-align:center;
     font-weight: bold;
     font-size: 100px;
     text-decoration: underline;
     border-style: outset;
-    border-color: black;
+    border-color: gold;
 }
 img{
     width: 600px;
@@ -31,4 +31,8 @@ h3{
     background-color: black;
     text-align: center;
     color: white;
+}
+h2{
+    border-style:outset;
+    border-color: gold;
 }
