@@ -25,3 +25,8 @@ li{
 h3{
     font-size: 40px;
 }
+.copyright{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
