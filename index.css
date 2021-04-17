@@ -14,3 +14,13 @@ img{
     overflow: hidden;
     background-size: cover;
 }
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+li{
+    color: black;
+}
+h3{
+    font-size: 50px;
+}
